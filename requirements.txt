@@ -1,0 +1,2 @@
+# Same verified Streamlit version as the Plate Planner after its frontend fix.
+streamlit==1.65.0
